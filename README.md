@@ -18,7 +18,7 @@ The project consists of two main phases:
 
 1. Clone this repository:
 ```bash
-git clone [<your-repo-url>](https://github.com/osamaalschame/Train-model-for-Self-Driving-Car.git)
+git clone https://github.com/osamaalschame/Train-model-for-Self-Driving-Car.git
 cd Train-model-for-Self-Driving-Car
 ```
 
